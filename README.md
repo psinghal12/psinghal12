@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Pankhuri! [@psinghal12](https://github.com/psinghal12)
 - 👀 I’m interested in data science, data analytics, software development, project management, and economics.
-- 🌱 I’m currently in graudate school -- pursuing a M.S. in Information Systems at the University of Washington's Foster School of Business. I obtained my Bachelor's from UW Bothell in June 2022; my major was Applied Computing and I double-minored in Mathematics and Economics.
+- 🌱 I’m currently in graduate school -- pursuing a M.S. in Information Systems at the University of Washington's Foster School of Business. I obtained my Bachelor's from UW Bothell in June 2022; my major was Applied Computing and I double-minored in Mathematics and Economics.
 - 💞️ I’m looking to collaborate on database management projects using SQL - I'd really love to work on a JDBC project!
 - 📫 How to reach me: You can find me on LinkedIn [here](https://www.linkedin.com/in/pankhuris/)! Looking forward to connecting with you!
