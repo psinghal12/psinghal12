@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Pankhuri! [@psinghal12](https://github.com/psinghal12)
 - 👀 I’m interested in data science, data analytics, software development, project management, and economics.
-- 🌱 I’m currently in graduate school -- pursuing a M.S. in Information Systems at the University of Washington's Foster School of Business. I obtained my Bachelor's from UW Bothell in June 2022; my major was Applied Computing and I double-minored in Mathematics and Economics. I'm currently working as an Operations Analyst and Project Manager at Google (via TELUS International).
+- 🌱 I'm currently working as an Operations Analyst and Project Manager at Google (via TELUS International). Back in June 2023 I graduated with a M.S. in Information Systems from UW's Foster School of Business. I obtained my Bachelor's from UW in June 2022; my major was Applied Computing and I double-minored in Mathematics and Economics. 
 - 💞️ I’m looking to collaborate on database management projects using SQL, or anything with Python, really! I love working with MySQL Workbench and Jupyter Notebook, in particular.
 - 📫 How to reach me: You can find me on LinkedIn [here](https://www.linkedin.com/in/pankhuris/)! Looking forward to connecting with you!
